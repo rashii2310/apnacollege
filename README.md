@@ -1,3 +1,4 @@
 # apnacollege
-This is my git repo
+This is my git repo. /n
+author
 
