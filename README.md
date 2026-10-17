@@ -1,5 +1,3 @@
 # apnacollege
-This is my git repo. 
-<br>
-author
+This is my git repo
 
